@@ -73,7 +73,7 @@ function Navbar() {
         <div className="mt-auto">
           <div className="pt-6">
             <a className="block px-4 py-3 mb-3 leading-loose text-xs text-center font-semibold leading-none bg-gray-50 hover:bg-gray-100 rounded-xl" href="#">Sign in</a>
-            <a className="block px-4 py-3 mb-2 leading-loose text-xs text-center text-white font-semibold bg-blue-600 hover:bg-blue-700  rounded-xl" href="#">Sign Up</a>
+            <a className="block px-4 py-3 mb-2 leading-loose text-xs text-center text-white font-semibold bg-blue-600 hover:bg-blue-700  rounded-xl" href="#">Apply</a>
           </div>
           <p className="my-4 text-xs text-center text-gray-400">
             <span>Copyright © ttt 🖤 2023  </span>
