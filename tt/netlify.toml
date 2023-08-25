@@ -1,6 +1,7 @@
 [build]
   base = "/"
-  command = "npm run build"
+  build:
+  command: npm run build
   publish = "build"
   functions = "functions"  # This line is only needed if using serverless functions
 
