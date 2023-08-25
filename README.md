@@ -9,5 +9,5 @@ Website for our small Friendly community of edgy-teens
  ### tech stack 
 - reactjs , tailwindcss 
 
-### features (coming soon): 
+### features (coming soon):
 - login feat for every member , instead of signup it will be apply for ttt .
